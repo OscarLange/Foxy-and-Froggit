@@ -1,5 +1,5 @@
 # Foxy-and-Froggit
-First Attempts with the unity Engine and C++
+First Attempts with the unity Engine and C#
 
 Small Game where Robots can be repaired, by shooting cogs at them. 
 
